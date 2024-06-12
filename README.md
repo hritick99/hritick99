@@ -28,16 +28,19 @@ Here are some of the languages and tools I frequently use:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hritick99/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/hritick99)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome)](https://hritick99.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/hritick-sharma)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome)](https://github.com/hritick99)
 
 ## 🏆 Projects
 
 Here are some of the cool projects I've been working on:
 
-- **[Project Name](#)**: Brief description of the project. Technologies used: JavaScript, HTML, CSS.
-- **[Another Project](#)**: Brief description of the project. Technologies used: React, Node.js, MongoDB.
+- **[Smart/Speaking bot with RAG implementation](#)**: An AI-powered bot that uses Large Language Models (LLM) and the Langchain framework to facilitate natural language understanding and interaction. This project highlights advanced techniques in AI and machine learning.
+
+-Technologies Used: Python, Langchain Framework.
+
+- **[RAG application for video ](#)**: project showcases a Retrieval-Augmented Generation (RAG) implementation using Large Language Models (LLM) and the Langchain framework. The application allows users to upload various types of documents, including text and video files, and then query the content after uploading. This approach enhances the model's ability to provide accurate and contextually relevant responses by leveraging both pre-trained language models and specific user-provided data.
+- Technologies Used: Python, Langchain Framework.
 
 For more detailed information about my projects and contributions, please check out my [GitHub repositories](https://github.com/hritick99?tab=repositories).
 

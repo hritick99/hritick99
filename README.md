@@ -1,4 +1,4 @@
-# Hi there, I'm Hritick Kumar 👋
+# Hi there, I'm Hritick Sharma 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in exploring new technologies and building innovative projects. Here's a bit more about me and what you'll find in my repositories.
 
